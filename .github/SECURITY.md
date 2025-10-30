@@ -37,7 +37,7 @@ If you discover a **non-intentional vulnerability** (e.g., affecting the build s
 
 Instead:
 
-1. **Email:** [security@owasp.org](mailto:security@owasp.org)  
+1. **Email:** [saravanan.pazhanichamy@infomagnus.com](mailto:saravanan.pazhanichamy@infomagnus.com)  
 2. Include details about the issue, including:
    - Steps to reproduce (if possible)
    - A clear description of impact and scope
